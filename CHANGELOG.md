@@ -5,6 +5,7 @@
 [Full Changelog](https://github.com/CosmWasm/wasmd/compare/v0.13.0...HEAD)
 
 **Features:**
+- Make it easy to initialize contracts in genesis file with new CLI commands[\#326](https://github.com/CosmWasm/wasmd/issues/326)
 - Upgrade to cosmos-sdk v0.40.0-rc5 [\#344](https://github.com/CosmWasm/wasmd/issues/344)
 - Add Dependabot to keep dependencies secure and up-to-date [\#336](https://github.com/CosmWasm/wasmd/issues/336)
 
